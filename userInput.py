@@ -1,3 +1,7 @@
 name = input("What is your name? ")
-age = input("How old are you? ")
+# int() -. casting
+age = int(input("How old are you? "))
+
+age = age + 1
+
 print("Hello " +name)
