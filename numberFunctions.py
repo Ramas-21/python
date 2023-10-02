@@ -12,4 +12,4 @@ print(abs(pi))
 print(pow(pi,2))
 print(math.sqrt(pi))
 print(max(x,y,z))
-
+print(min(x,y,z))
