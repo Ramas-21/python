@@ -1,6 +1,5 @@
 name = input("What is your name? ")
-# int() -. casting
-age = int(input("How old are you? "))
+age = int(input("How old are you? ")) # int() or float() casting the users input (age)
 
 age = age + 1
 
